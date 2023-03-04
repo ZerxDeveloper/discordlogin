@@ -9,4 +9,4 @@ location.reload();
 }, 2500);
 }
 
-login('PASTE TOKEN HERE')<*
+login('PASTE TOKEN HERE')*
