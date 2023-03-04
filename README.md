@@ -1,4 +1,4 @@
-<h1>Discord Login via Token</h1>
+<h1>Discord Login on Web via Token</h1>
 <p>press CTRL + SHIFT + I and go to console type allow pasting and then paste this code down below</p>
 <p>function login(token) {
 setInterval(() => {
